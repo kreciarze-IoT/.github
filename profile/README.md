@@ -6,7 +6,7 @@
   * [indoor-climate-raspi-files](https://github.com/kreciarze/indoor-climate-raspi-files)
 
 * Studio Projektowe 1:
-  * [league-planner](https://github.com/kreciarze/league-planner)
+  * [league-planner-backend](https://github.com/kreciarze/league-planner-backend)
   * [league-planner-front](https://github.com/kreciarze/league-planner-front)
  
 * Symulacja Systemów Dyskretnych
