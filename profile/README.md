@@ -11,3 +11,6 @@
  
 * Symulacja Systemów Dyskretnych
   * [fungal-growth-simulation](https://github.com/kreciarze/fungal-growth-simulation)
+
+* Inteligentne Systemy Sensoryczne
+  * [watering-predictioner](https://github.com/kreciarze/watering-predictioner)
