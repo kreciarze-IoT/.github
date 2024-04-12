@@ -14,3 +14,6 @@
 
 * Inteligentne Systemy Sensoryczne
   * [watering-predictioner](https://github.com/kreciarze/watering-predictioner)
+
+* Wykrywanie Anomalii Sieciowych z Użyciem Uczenia Maszynowego
+  * [beantech-anomaly-detector](https://github.com/kreciarze/beantech-anomaly-detector)
