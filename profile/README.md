@@ -1,5 +1,8 @@
 ## Kreciarze
 
+* Algorytmy inteligentne inspirowane naturą:
+  * [genetic-travelling-salesman](https://github.com/kreciarze/genetic-travelling-salesman)
+
 * Internet Rzeczy i Inteligentne Systemy Wbudowane:
   * [indoor-climate-data-storage](https://github.com/kreciarze/indoor-climate-data-storage)
   * [indoor-climate-mobile-app](https://github.com/kreciarze/indoor-climate-mobile-app)
